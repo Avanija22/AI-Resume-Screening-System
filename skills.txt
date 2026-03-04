@@ -1,0 +1,17 @@
+python
+java
+sql
+mysql
+machine learning
+deep learning
+nlp
+flask
+django
+data analysis
+excel
+power bi
+tableau
+tensorflow
+html
+css
+javascript
